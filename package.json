@@ -1,9 +1,22 @@
 {
-  "name": "node-db4-project",
+  "name": "my-node-project",
   "version": "1.0.0",
-  "scripts": {},
+  "description": "A sample Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BloomInstituteOfTechnology/node-db4-project.git"
+    "url": "git+https://github.com/farhaannishtar/node-projects.git"
+  },
+  "author": "Farhaan Nishtar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/farhaannishtar/node-projects/issues"
+  },
+  "homepage": "https://github.com/farhaannishtar/node-projects#readme",
+  "dependencies": {
+    "serve": "^14.2.1"
   }
 }
